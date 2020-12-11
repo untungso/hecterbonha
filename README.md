@@ -23,3 +23,6 @@
 - ⚡ Fun fact: ...
   - not having it background
   - self taught developer
+  
+  [![Hecterbonha's github stats](https://github-readme-stats.vercel.app/api?username=hecterbonha)](https://github.com/anuraghazra/github-readme-stats)
+
