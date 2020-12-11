@@ -24,7 +24,7 @@
   - not having it background
   - self taught developer
   
-  [![Hecterbonha's github stats](https://github-readme-stats.vercel.app/api?username=hecterbonha)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecterbonha)](https://github.com/anuraghazra/github-readme-stats)
+[![Hecterbonha's github stats](https://github-readme-stats.vercel.app/api?username=hecterbonha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecterbonha&hide=css,html,vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
