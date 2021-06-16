@@ -9,12 +9,12 @@
 
 ## ⚡ Technologies
 
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-darkblue?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
